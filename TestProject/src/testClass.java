@@ -7,8 +7,8 @@ public class testClass {
 		
 		System.out.println(area);
 		
-		int y = 1 + 1 * 20;
-		System.out.println(y);
+		
+		
 	
 		
 		
