@@ -6,7 +6,12 @@ public class testClass {
 		double area = a*b; 
 		
 		System.out.println(area);
-			
+		
+		int y = 1 + 1 * 20;
+		System.out.println(y);
+	
+		
+		
 		
 	}
 	
